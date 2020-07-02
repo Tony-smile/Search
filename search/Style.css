@@ -1,0 +1,13 @@
+input {
+  border-radius: 35px;
+  width: 80%;
+  height: 30px;
+  padding: 4px;
+}
+
+#s {
+  width: 20%;
+  background-color: white;
+  align-items: center;
+  
+}
